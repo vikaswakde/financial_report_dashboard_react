@@ -1,8 +1,32 @@
-# React + Vite
+hosted at
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://react-financial-dashboard-website.netlify.app/
 
-Currently, two official plugins are available:
+# Movie Search App (React + Vite)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This repository contains a simple yet powerful movie search web app built with **React** and **Vite**. The app allows users to find movies by title or keyword, displaying relevant results from the TMDB API.
+
+## Getting Started
+
+To set up and run the application locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   https://github.com/vikaswakde/financial_report_dashboard_react
+   cd react_dashboard_project
+   ```
+2. Install dependencies:
+
+  ```bash
+  npm install
+  # Or if you prefer yarn:
+  yarn
+```
+3. Run the development server:
+```bash
+  npm run dev
+```
+# Contributions
+Contributions are welcome! If you would like to contribute to this project, please submit pull requests with detailed explanations of changes made.
+
+To learn React, check out the [React documentation](https://reactjs.org/).
