@@ -2,9 +2,9 @@ hosted at
 
 https://react-financial-dashboard-website.netlify.app/
 
-# Movie Search App (React + Vite)
+# Financial Report Dashboard  (React + Vite)
 
-This repository contains a simple yet powerful movie search web app built with **React** and **Vite**. The app allows users to find movies by title or keyword, displaying relevant results from the TMDB API.
+This repository contains a simple yet beautiful financial dashboard  web app built with **React** and **Vite**. 
 
 ## Getting Started
 
